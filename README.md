@@ -6,9 +6,8 @@ Sebuah game 3D sederhana yang dibangun menggunakan Unity. Dalam game ini, pemain
 
 | Menu Utama | Gameplay | Game Selesai |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/018a05e5-f3ca-4e7e-9028-3f03e7be9776"  width="250"> | <img src="https://github.com/user-attachments/assets/c3bab4b6-3b4a-4a37-b48d-c2a6c56e3387" width="250"> | <img src="https://github.com/user-attachments/assets/c479e3c5-faec-4588-b5c1-82b7e0a6076f" width="250"> |
+| <img src="https://github.com/user-attachments/assets/018a05e5-f3ca-4e7e-9028-3f03e7be9776"  width="250"> | <img src="https://github.com/user-attachments/assets/c3bab4b6-3b4a-4a37-b48d-c2a6c56e3387" width="250"> | <img src="https://github.com/user-attachments/assets/a05f6c66-77f3-43e2-9a95-8b031aedf9d8" width="250"> |
 
-*Catatan: Ganti `URL_GAMBAR_..._ANDA` dengan tautan ke screenshot game Anda. Anda bisa mendapatkan link ini dengan mengunggah gambar ke menu "Issues" di GitHub.*
 
 ## Fitur Utama
 - **Lingkungan 3D Interaktif:** Pemain dapat bergerak bebas di dalam ruangan untuk mencari bahan-bahan yang dibutuhkan.
