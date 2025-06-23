@@ -41,7 +41,7 @@ Untuk menjalankan proyek ini di mesin lokal Anda, Anda memerlukan Unity Hub dan 
 
 3.  **Clone repositori ini:**
     ```sh
-    git clone https://github.com/username-anda/nama-repositori-anda.git
+    git clone https://github.com/dimaswijil/Game-Making-Accessories.git
     ```
 
 4.  **Buka proyek melalui Unity Hub:**
