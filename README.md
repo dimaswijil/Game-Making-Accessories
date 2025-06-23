@@ -55,3 +55,4 @@ Untuk menjalankan proyek ini di mesin lokal Anda, Anda memerlukan Unity Hub dan 
 ---
 
 Jangan ragu untuk berkontribusi, memberikan saran, atau melaporkan bug dengan membuat *issue* baru.
+link rar : https://drive.google.com/file/d/1xVgE3W54tbygo0xA4ewXNTc6DTAqtsAT/view?usp=sharing
